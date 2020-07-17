@@ -10,7 +10,7 @@ The swipe gets captured by [libinput-gestures](https://github.com/bulletmark/lib
 
 And for vertical movement the script needs two inputs, like so:
 
-    sh /home/julien/Tools/gestureManager/moveDown.sh 3 3
+    sh <path to file>/moveDown.sh 3 3
     
 First input is the number of columns second input is the number of rows. Same for moveUp.
 
