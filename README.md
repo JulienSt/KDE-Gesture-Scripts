@@ -1,7 +1,7 @@
 # KDE-Gesture-Scripts
-Small scripts for scrolling through virtual desktop grids. The scipts allow a natural wrap arround in horizontal and vertical movement.
+Small scripts for scrolling through virtual desktop grids. The scripts allow a natural wrap around in horizontal and vertical movement.
 
-I use these scripts to scroll through my virtual dasktops with a three finger swipe.
+I use these scripts to scroll through my virtual desktops with a three finger swipe.
 The swipe gets captured by [libinput-gestures](https://github.com/bulletmark/libinput-gestures), which then starts the corresponding script with the following command:
 
     sh <path to file>/moveLeft.sh 3
